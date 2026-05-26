@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+dp/__init__.py
+dp/douglas_peucker.py
+gmt211_2220674038.egg-info/PKG-INFO
+gmt211_2220674038.egg-info/SOURCES.txt
+gmt211_2220674038.egg-info/dependency_links.txt
+gmt211_2220674038.egg-info/top_level.txt
+tests/test_douglas_peucker.py

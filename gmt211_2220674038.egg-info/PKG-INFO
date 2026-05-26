@@ -1,0 +1,21 @@
+Metadata-Version: 2.4
+Name: gmt211_2220674038
+Version: 0.0.1
+Summary: Douglas Peucker algorithm assignment
+Author: Eylul Yaldiz
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+
+# Douglas Peucker Algorithm
+
+This project implements the Douglas-Peucker line simplification algorithm.
+
+The algorithm reduces the number of points in a line according to the epsilon value.
+
+- Small epsilon keeps more detail.
+- Large epsilon simplifies the line more.
+
+## Run
+
+```bash
+py main.py

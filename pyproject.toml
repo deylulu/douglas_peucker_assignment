@@ -1,0 +1,13 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "gmt211_2220674038"
+version = "0.0.1"
+description = "Douglas Peucker algorithm assignment"
+authors = [
+    { name = "Eylul Yaldiz" }
+]
+readme = "README.md"
+requires-python = ">=3.10"
